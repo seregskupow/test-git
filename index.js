@@ -1,4 +1,10 @@
-const a = () => {
+function a() {
     console.log("TEST");
-};
-const b = () => {};
+}
+function b() {
+    console.log("AAAAAh");
+}
+
+function hi() {
+    a();
+}
