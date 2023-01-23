@@ -4,3 +4,7 @@ const a = () => {
 const b = () => {
     console.log("AAAAAh");
 };
+
+function AAAH() {
+    b();
+}
