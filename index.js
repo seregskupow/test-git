@@ -1,4 +1,6 @@
 const a = () => {
     console.log("TEST");
 };
-const b = () => {};
+const b = () => {
+    console.log("AAAAAh");
+};
