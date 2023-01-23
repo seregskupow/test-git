@@ -8,3 +8,5 @@ const b = () => {
 function AAAH() {
     b();
 }
+
+console.log("changes");
