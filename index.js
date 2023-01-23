@@ -1,7 +1,7 @@
 function a() {
     console.log("TEST");
 }
-const b = () => {
+function()  {
     console.log("AAAAAh");
 };
 
