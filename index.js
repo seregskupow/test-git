@@ -2,8 +2,15 @@ function a() {
     console.log("TEST");
 }
 function b() {
-    console.log("AAAAAh");
+    console.log("AAAAAh");+++
+};
+
+function AAAH() {
+    b();
 }
+
+console.log("changes");
+
 
 function hi() {
     a();
