@@ -1,8 +1,8 @@
-const a = () => {
+function a() {
     console.log("TEST");
-};
-const b = () => {
-    console.log("AAAAAh");
+}
+function b() {
+    console.log("AAAAAh");+++
 };
 
 function AAAH() {
@@ -10,3 +10,8 @@ function AAAH() {
 }
 
 console.log("changes");
+
+
+function hi() {
+    a();
+}
