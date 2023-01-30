@@ -18,4 +18,9 @@ function hi() {
 
 console.log("sad")
 function Test(){}
+
+
+function Test2(){}
+
 Test()
+
