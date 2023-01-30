@@ -22,3 +22,5 @@ Test()
 
 
 console.log("dasdsads")
+
+function Test2(){}
