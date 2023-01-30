@@ -24,3 +24,4 @@ Test()
 console.log("dasdsads")
 
 function Test2(){}
+Test2()
