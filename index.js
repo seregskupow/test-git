@@ -19,6 +19,15 @@ function hi() {
 console.log("sad")
 function Test(){}
 
+Test()
+
+
+console.log("dasdsads")
+
+function Test2(){}
+Test2()
+
+
 
 function Test2(){}
 
