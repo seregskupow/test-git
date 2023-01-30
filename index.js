@@ -18,3 +18,4 @@ function hi() {
 
 console.log("sad")
 function Test(){}
+Test()
