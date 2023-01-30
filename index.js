@@ -15,3 +15,5 @@ console.log("changes");
 function hi() {
     a();
 }
+
+function Test(){}
