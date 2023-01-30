@@ -17,3 +17,5 @@ function hi() {
 }
 
 function Test(){}
+
+function Test2(){}
