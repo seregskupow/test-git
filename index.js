@@ -16,4 +16,6 @@ function hi() {
     a();
 }
 
+console.log("sad")
 function Test(){}
+Test()
