@@ -1,7 +1,7 @@
-const a  = {
+const ab  = {
     a:'asd'
 }
 
-export function kek() {
-    console.log(a)
+export function kek34() {
+    console.log(ab)
 }
